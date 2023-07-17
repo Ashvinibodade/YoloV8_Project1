@@ -1,0 +1,5 @@
+train: Data/Train/images
+val: Data/Validate/images
+
+nc: 5
+names: ['Helmet', 'Goggles', 'Jacket', 'Gloves', 'Footwear']
